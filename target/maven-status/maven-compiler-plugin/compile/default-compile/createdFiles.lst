@@ -1,0 +1,15 @@
+com\mycompany\walmart\Walmart.class
+com\mycompany\walmart\Payroll\Contract.class
+com\mycompany\walmart\Lectura\Lectura.class
+com\mycompany\walmart\Payroll\HourlyJob.class
+com\mycompany\walmart\Lectura\LecturaGUI.class
+com\mycompany\walmart\Payroll\ComprehensiveContract.class
+com\mycompany\walmart\Payroll\MonthlySalary.class
+com\mycompany\walmart\Escritura\EscrituraGUI.class
+com\mycompany\walmart\Recruitment\Candidate.class
+com\mycompany\walmart\Recruitment\Interview.class
+com\mycompany\walmart\Recruitment\Person.class
+com\mycompany\walmart\Recruitment\RecruitmentResult.class
+com\mycompany\walmart\Payroll\AdditionalBenefits.class
+com\mycompany\walmart\Payroll\IndependentContractorAgreement.class
+com\mycompany\walmart\Recruitment\Participant.class
